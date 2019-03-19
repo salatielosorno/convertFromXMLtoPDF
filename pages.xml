@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<direcciones>
+ <tema>Mis páginas favoritas</tema>
+ <intro>Recopilación de mis páginas favoritas.</intro>
+ <direccion>
+  <titulo>Google</titulo>
+  <url>http://www.google.com/</url>
+  <descripcion>Esto es una prueba de renderizado.</descripcion>
+ </direccion>
+</direcciones>
